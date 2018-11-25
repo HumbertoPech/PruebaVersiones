@@ -1,6 +1,7 @@
 <?php
 /**
-* Controlador principal
+
+* 
 *
 * Contiene el controlador principal MVC,
 * Carga el controlador, el modelo y la vista necesaria
