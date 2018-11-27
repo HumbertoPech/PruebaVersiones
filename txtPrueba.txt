@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-Escrito desde la branch MAster
-=======
 Escrito desde la branch MAster
 Escrito desde la branch Beto
->>>>>>> branch_beto
